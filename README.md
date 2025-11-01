@@ -2,8 +2,6 @@
 
 PixelSpark is a full-stack MERN application that allows users to generate imaginative images using OpenAI's DALL-E AI and share them with a vibrant community. Browse a gallery of creations, search for specific prompts, and spark your own imagination.
 
-http://googleusercontent.com/image_generation_content/0
-
 ## 🚀 Core Features
 
 * **Generate Images:** Create stunning, unique images from any text prompt using the DALL-E API.
@@ -85,3 +83,4 @@ This project is deployed in two parts:
 
 The live application is available at:
 **[https://Ankit-iiitkota.github.io/pixelSpark/](https://Ankit-iiitkota.github.io/pixelSpark/)**
+
