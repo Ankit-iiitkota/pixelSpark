@@ -24,7 +24,7 @@ const Home = () => {
       setError(null); 
       try {
         // ✨ Here is the changed URL to use your local server
-        const response = await fetch('http://localhost:8080/api/v1/post', {
+        const response = await fetch('https://pixelspark.onrender.com/api/v1/post', {
           method: 'GET',
           headers: { 'Content-Type': 'application/json' },
         });
